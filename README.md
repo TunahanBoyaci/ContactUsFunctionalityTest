@@ -13,4 +13,4 @@ This code is a test case for the "Contact Us" functionality on a web application
 10) BaseDriver and Utilities
 
 ## Demo
-<img src=" https://github.com/TunahanBoyaci/ContactUsFunctionalityTest/blob/main/11.09.2023_10.02.20_REC.gif">
+<img src="https://github.com/TunahanBoyaci/ContactUsFunctionalityTest/blob/main/11.09.2023_10.02.20_REC.gif">
